@@ -1,2 +1,4 @@
 # meditation-app
-Meditation app tutorial
+
+
+Basic meditation app with 2 videos and 2 sounds, 4 different timer settings.
